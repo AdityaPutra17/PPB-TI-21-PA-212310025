@@ -9,8 +9,8 @@ import Main from './src/home/main';
 export default function App() {
   return (
     <View style={styles.container}>
-      <MyFriends/>
-      {/* <Main/> */}
+      {/* <MyFriends/>*/ }
+      <Main/>
     </View>
   );
 }
